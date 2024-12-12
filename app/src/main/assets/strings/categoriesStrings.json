@@ -1,0 +1,20 @@
+
+{
+    "categories_title": {
+        "en": "Categories",
+        "ar": "التصنيفات"
+    },
+    "categories_button_reset": {
+        "en": "Reset",
+        "ar": "محو الاختيارات"
+    },
+    "categories_button_back": {
+        "en": "Back",
+        "ar": "عودة"
+    },
+    "categories_button_view_on_map": {
+        "en": "View on map",
+        "ar": "إظهر على الخاريطة"
+    }
+}
+

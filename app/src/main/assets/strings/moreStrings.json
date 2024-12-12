@@ -1,0 +1,107 @@
+
+{
+    "more_settings": {
+        "en": "Settings",
+        "ar": "إعدادات"
+    },
+    "more_reminders": {
+        "en": "Reminders",
+        "ar": "التنبيهات"
+    },
+    "more_info": {
+        "en": "App info",
+        "ar": "معلومات عن البرنامج"
+    },
+    "more_share": {
+        "en": "Share application",
+        "ar": "مشاركه البرنامج"
+    },
+    
+    "more_settings_language": {
+        "en": "Language",
+        "ar": "اللغة"
+    },
+    
+    "more_settings_language_en": {
+        "en": "English",
+        "ar": "English"
+    },
+    
+    "more_settings_language_ar": {
+        "en": "العربية",
+        "ar": "العربية"
+    },
+    
+    "more_settings_theme": {
+        "en": "Theme",
+        "ar": "النمط"
+    },
+    
+    "more_settings_theme_light": {
+        "en": "Light",
+        "ar": "فاتح"
+    },
+    
+    "more_settings_theme_dark": {
+        "en": "Dark",
+        "ar": "مظلم"
+    },
+    
+    "more_settings_explore_filter": {
+        "en": "Explore filter",
+        "ar": "تصفية الإكتشاف"
+    },
+    
+    "more_settings_explore_filter_all": {
+        "en": "All categories",
+        "ar": "جميع الأنواع"
+    },
+    
+    "more_settings_explore_filter_favourites": {
+        "en": "Interests only",
+        "ar": "الإهتمامات فقط"
+    },
+    
+    "more_info_app": {
+        "en": "About EGIPA",
+        "ar": "عن EGIPA"
+    },
+    "more_info_new": {
+        "en": "What's new?",
+        "ar": "ما الجديد؟"
+    },
+    "more_info_terms": {
+        "en": "Terms of use",
+        "ar": "شروط الاستخدام"
+    },
+    
+    "more_notifications": {
+        "en": "Notifications",
+        "ar": "اشعارات"
+    },
+    "more_notifications_empty": {
+        "en": "There are no new notifications for you at this time, please check back soon!",
+        "ar": "لا يوجد اشعارات جديدة لك في هذا الوقت، منفضلك عاود التحقق لاحقاً!"
+    },
+    "more_notifications_delete": {
+        "en": "Delete",
+        "ar": "حذف"
+    },
+    "more_notifications_markread": {
+        "en": "Mark as read",
+        "ar": "تم الإطلاع"
+    },
+    "more_notifications_markunread": {
+        "en": "Mark as unread",
+        "ar": "لم يتم الإطلاع"
+    },
+    "more_notifications_new": {
+        "en": "New",
+        "ar": "جديد"
+    },
+    "more_notifications_earlier": {
+        "en": "Earlier",
+        "ar": "السابق"
+    }
+    
+}

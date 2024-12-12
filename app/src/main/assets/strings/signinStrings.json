@@ -1,0 +1,136 @@
+{
+    "sigin_welcome": {
+        "en": "WELCOME!",
+        "ar": "مرحباً!"
+    },
+    "sigin_caption": {
+        "en": "Sign in/up to get on board",
+        "ar": "قم بتسجيل الدخول أو حساب جديد للبدء"
+    },
+    "sigin_extra_info_caption": {
+        "en": "Please take a moment to complete your information!",
+        "ar": "من فضلك أكمل بياناتك!"
+    },
+    
+    "sigin_connect_with": {
+        "en": "Or connect with",
+        "ar": "أو قم بالإتصال من خلال"
+    },
+    "signin_selector_signin": {
+        "en": "Sign in",
+        "ar": "تسجيل دخول"
+    },
+    "signin_selector_signup": {
+        "en": "Sign up",
+        "ar": "إنشاء حساب"
+    },
+    
+    "signin_forgot_password_caption": {
+        "en": "Please enter your email to recieve a password reset code",
+        "ar": "قم بإدخال الإيميل الخاص بحسابك ليصلك كود تغيير كلمة السر"
+    },
+    
+    "signin_forgot_password_prompt": {
+        "en": "Please enter your new password",
+        "ar": "قم بإدخال كلمة السر الجديدة"
+    },
+    "signin_forgot_password_success_label": {
+        "en": "Success",
+        "ar": "تم بنجاح"
+    },
+    "signin_forgot_password_success": {
+        "en": "Password reset successful",
+        "ar": "تم تغيير كلمة السر بنجاح"
+    },
+    
+    "signin_otp_email_caption": {
+        "en": "Please check your email and enter the 6-digit otp",
+        "ar": "منفضلك تحقق من الإميل المرسل لك و قم بإدخال الكود المكون من ستة أرقام"
+    },
+    
+    "signin_category_selector_title": {
+        "en": "Tell us what interests you?",
+        "ar": "أخبرنا بما تهتم؟"
+    },
+    
+    "signin_field_email": {
+        "en": "E-Mail",
+        "ar": "الإيميل"
+    },
+    "signin_field_password": {
+        "en": "Password",
+        "ar": "كلمة السر"
+    },
+    "signin_field_fullName": {
+        "en": "Full name",
+        "ar": "الإسم الكامل"
+    },
+    "signin_field_birthday": {
+        "en": "Select birthday",
+        "ar": "إختر تاريخ الميلاد"
+    },
+    
+    "signin_button_signin": {
+        "en": "Sign in",
+        "ar": "تسجيل دخول"
+    },
+    "signin_button_signup": {
+        "en": "Create account",
+        "ar": "إنشاء حساب"
+    },
+    "signin_button_forgotPassword": {
+        "en": "Forgot password?",
+        "ar": "هل نسيت كلمة السر؟"
+    },
+    "signin_button_sendRequest": {
+        "en": "Send request",
+        "ar": "إرسال الطلب"
+    },
+    
+    "signin_button_resendCode": {
+        "en": "Resend code?",
+        "ar": "إعادة إرسال؟"
+    },
+    "signin_button_resetPassword": {
+        "en": "Reset password",
+        "ar": "تغيير كلمة السر"
+    },
+    "signin_button_save": {
+        "en": "Save",
+        "ar": "حفظ"
+    },
+    "signin_button_skip": {
+        "en": "Skip",
+        "ar": "تخطي"
+    },
+    "signin_button_get_started": {
+        "en": "Get started",
+        "ar": "إبدأ"
+    },
+    "signin_error_label": {
+        "en": "Error",
+        "ar": "حدث خطأ"
+    },
+    "signin_error_ok": {
+        "en": "ok",
+        "ar": "حسناً"
+    },
+    "signin_error_full_name": {
+        "en": "The provided Full Name doesnt appear to be valid",
+        "ar": "إن الإسم الذي تم ادخاله لا يبدو صحيحاً"
+    },
+    "signin_error_email": {
+        "en": "The provided e-mail doesnt appear to be a valid e-mail address",
+        "ar": "إن الإيميل الذي تم ادخاله لا يبدو صحيحاً"
+    },
+    "signin_error_password": {
+        "en": "Your password must be atleast six characters and has at least one uppercase letter, one lowercase letter, one number and one special (@$!%*?&) character.",
+        "ar": "كلمة السر لابد أن تكون ستة أحرف على الاقل و تحتوي على حرف صغير، حرف كبير، رقم و حرف خاص (@$!%*?&)"
+    },
+    
+    "signin_error_general_signup": {
+        "en": "A general error occured while signing up, please try again",
+        "ar": "حدث خطأ عام أثناء تسجيل الحساب، بالرجاء المحاولة مرة أخرى"
+    }
+    
+}

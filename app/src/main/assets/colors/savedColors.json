@@ -1,0 +1,27 @@
+{
+    
+    "saved_places_foreground_color": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "saved_places_cell_color": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    },
+    "saved_places_cell_address": {
+        "dark": "AEAEB2",
+        "light": "48484A"
+    },
+    "saved_places_cell_more": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "saved_places_popup_color": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    "saved_places_popup_separator": {
+        "dark": "48484A",
+        "light": "AEAEB2"
+    }
+}

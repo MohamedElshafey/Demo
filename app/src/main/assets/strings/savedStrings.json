@@ -1,0 +1,66 @@
+
+{
+    "saved_title": {
+        "en": "Saved",
+        "ar": "المحفوظات"
+    },
+    "saved_no_interests": {
+        "en": "You don't seem to have any saved interests yet, start by tapping the +",
+        "ar": "لا يبدو أن هناك اهتمامات محفوظة، إبدأ بالضغط على +"
+    },
+    "saved_no_favourites": {
+        "en": "You don't seem to have any saved favourits yet, start by tapping the +",
+        "ar": "لا يبدو أن هناك مفضلة محفوظة، إبدأ بالضغط على +"
+    },
+    "saved_no_places": {
+        "en": "You don't seem to have any saved places yet, start by tapping the +",
+        "ar": "لا يبدو أن هناك أماكن محفوظة، إبدأ بالضغط على +"
+    },
+    "saved_delete_prompt": {
+        "en": "Are you sure you want to delete this place ?",
+        "ar": "هل ترغب بحذف هذا المكان ؟"
+    },
+    "saved_general_error": {
+        "en": "A general error occured, please try again!",
+        "ar": "حدث خطأ عام، من فضلك حاول مجدداً!"
+    },
+    "saved_empty_title_error": {
+        "en": "You must enter a name for your saved place!",
+        "ar": "يجب إختيار أسم لهذا المكان!"
+    },
+    
+    "saved_place_placeholder_name": {
+        "en": "Name",
+        "ar": "الإسم"
+    },
+    
+    "saved_place_placeholder_address": {
+        "en": "Address",
+        "ar": "العنوان"
+    },
+    
+    "saved_place_icon_home": {
+        "en": "Home",
+        "ar": "منزل"
+    },
+    "saved_place_icon_work": {
+        "en": "Work",
+        "ar": "عمل"
+    },
+    "saved_place_icon_cafe": {
+        "en": "Cafe",
+        "ar": "مقهى"
+    },
+    "saved_place_icon_restaurant": {
+        "en": "Restaurant",
+        "ar": "مطعم"
+    },
+    "saved_place_icon_favourite": {
+        "en": "Favourite",
+        "ar": "مفضلة"
+    },
+    "saved_place_add_to_places": {
+        "en": "Add as a saved place",
+        "ar": "إضافة إلى أماكني"
+    }
+}

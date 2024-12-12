@@ -1,0 +1,23 @@
+
+{
+    "mainview_bar_explore": {
+        "en": "Explore",
+        "ar": "إكتشاف"
+    },
+    "mainview_bar_saved": {
+        "en": "Saved",
+        "ar": "محفوظ"
+    },
+    "mainview_bar_ar": {
+        "en": "AR",
+        "ar": "الإفتراضي"
+    },
+    "mainview_bar_categories": {
+        "en": "Categories",
+        "ar": "تصنيفات"
+    },
+    "mainview_bar_more": {
+        "en": "More",
+        "ar": "أكثر"
+    }
+}

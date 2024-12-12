@@ -1,0 +1,100 @@
+
+{
+    
+    "signin_text": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "signin_background_color": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    "signin_background_circle": {
+        "dark": "2F2F32",
+        "light": "F0F0F1"
+    },
+    "signin_selector_line": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    },
+    "signin_selector_selectedButton": {
+        "dark": "48484A",
+        "light": "DDDDDD"
+    },
+    "signin_selector_selectedText": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "signin_selector_unSelectedButton": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    "signin_selector_unSelectedText": {
+        "dark": "6E6E71",
+        "light": "8E8E93"
+    },
+    "signin_form_line": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    },
+    "signin_form_field": {
+        "dark": "353538",
+        "light": "EFEFEF"
+    },
+    "signin_form_fieldPalceholder": {
+        "dark": "A8A8A8",
+        "light": "5D5D5D"
+    },
+    "signin_form_fieldText": {
+        "dark": "F2F2F7",
+        "light": "5D5D5D"
+    },
+    "signin_form_submit": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    },
+    "signin_form_submitText": {
+        "dark": "F2F2F7",
+        "light": "F2F2F7"
+    },
+    "signin_connect_line": {
+        "dark": "595959",
+        "light": "AEAEB2"
+    },
+    "signin_connect_text": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "signin_connect_icon": {
+        "dark": "48484A",
+        "light": "EBEBEB"
+    },
+    
+    "signin_extra_selected": {
+        "dark": "FDFDFD",
+        "light": "3A3A3C"
+    },
+    "signin_extra_unSelected": {
+        "dark": "B1B1B1",
+        "light": "48484A"
+    },
+    
+    "signin_extra_categories_tile": {
+        "dark": "3A3A3C",
+        "light": "EEEEEE"
+    },
+    "signin_extra_categories_selectedFrame": {
+        "dark": "8E8E93",
+        "light": "3A3A3C"
+    },
+    "signin_extra_categories_unSelectedFrame": {
+        "dark": "48484A",
+        "light": "8E8E93"
+    },
+    "signin_extra_categories_bottomBar": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    }
+    
+}
+

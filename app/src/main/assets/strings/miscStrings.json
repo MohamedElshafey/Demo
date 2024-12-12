@@ -1,0 +1,88 @@
+
+{
+    "user_anonymous": {
+        "en": "Anonymous",
+        "ar": "مجهول"
+    },
+    "button_cancel": {
+        "en": "cancel",
+        "ar": "إلغاء"
+    },
+    "button_done": {
+        "en": "Done",
+        "ar": "تم"
+    },
+    "button_search": {
+        "en": "Search",
+        "ar": "بحث"
+    },
+    "button_more": {
+        "en": "More",
+        "ar": "أكثر"
+    },
+    "saved_interests": {
+        "en": "My Interests",
+        "ar": "اهتماماتي"
+    },
+    "saved_favourites": {
+        "en": "Favourites",
+        "ar": "المفضلة"
+    },
+    "saved_places": {
+        "en": "My Places",
+        "ar": "اماكني"
+    },
+    
+    "popup_view_on_map": {
+        "en": "View on map",
+        "ar": "إظهر على الخريطة"
+    },
+    "popup_direction": {
+        "en": "Directions",
+        "ar": "ألإتجاهات"
+    },
+    "popup_search": {
+        "en": "Search",
+        "ar": "بحث"
+    },
+    "popup_edit": {
+        "en": "Edit",
+        "ar": "تعديل"
+    },
+    "popup_info": {
+        "en": "Info",
+        "ar": "تفاصيل"
+    },
+    "popup_remove": {
+        "en": "Remove",
+        "ar": "إزالة"
+    },
+    "load_error_prompt": {
+        "en": "An error occured while loading this content!",
+        "ar": "حدث خطأ أثناء تحميل البيانات!"
+    },
+    "load_error_retry": {
+        "en": "Try reloading?",
+        "ar": "إعادة المحاولة؟"
+    },
+    "gender_male": {
+        "en": "Male",
+        "ar": "ذكر"
+    },
+    "gender_female": {
+        "en": "Female",
+        "ar": "أنثى"
+    },
+    "gender_unspecified": {
+        "en": "Unspecified",
+        "ar": "غير محدد"
+    },
+    "location_authorization_error": {
+        "en": "Please allow EGIPA access to you location services from your iOS settings!",
+        "ar": "من فضلك اسمح لEGIPA بإستخدام خدمات الموقع من اختيارات iOS الخاصة بك!"
+    },
+    "location_disabled_error": {
+        "en": "Please enable location services from your iOS settings!",
+        "ar": "من فضلك قم بتشغل خدمات الموقع من اختيارات iOS الخاصة بك!"
+    }
+}

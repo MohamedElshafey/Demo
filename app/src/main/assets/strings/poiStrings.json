@@ -1,0 +1,128 @@
+
+{
+    "poi_open": {
+        "en": "Open",
+        "ar": "مفتوح"
+    },
+    "poi_closed": {
+        "en": "Closed",
+        "ar": "مغلق"
+    },
+    "poi_directions": {
+        "en": "Directions",
+        "ar": "إتجاهات"
+    },
+    "poi_call": {
+        "en": "Call",
+        "ar": "إتصال"
+    },
+    "poi_share": {
+        "en": "Share",
+        "ar": "مشاركة"
+    },
+    "poi_whatsapp": {
+        "en": "WhatsApp",
+        "ar": "واتساب"
+    },
+    "poi_open_times": {
+        "en": "Open times",
+        "ar": "مواعيد العمل"
+    },
+    "poi_add_to_fav": {
+        "en": "Add to favourites",
+        "ar": "أضف للمفضلة"
+    },
+    "poi_remove_from_fav": {
+        "en": "Remove from favourites",
+        "ar": "ازاله من المفضلة"
+    },
+    "poi_reviews": {
+        "en": "Reviews",
+        "ar": "التقييمات"
+    },
+    "poi_services": {
+        "en": "Services",
+        "ar": "الخدمات"
+    },
+    "poi_add_review": {
+        "en": "Add review",
+        "ar": "أضف تقييم"
+    },
+    "poi_update_review": {
+        "en": "Update review",
+        "ar": "تعديل التقييم"
+    },
+    "poi_load_more_reviews": {
+        "en": "More",
+        "ar": "المزيد"
+    },
+    "poi_load_more_error": {
+        "en": "An error occured, try again?",
+        "ar": "حدث خطأ، إعادة المحاولة؟"
+    },
+    "poi_no_reviews_prompt": {
+        "en": "There are currently no reviews for this place!",
+        "ar": "لايوجد تقييمات لهذا المكان حالياً!"
+    },
+    "poi_be_first_review_prompt": {
+        "en": "Be the first to add a review?",
+        "ar": "كن أول من يقوم بإضافة تقييم؟"
+    },
+    "poi_review_placeholder": {
+        "en": "Share your experience at this place",
+        "ar": "شارك خبرتك بهذا المكان"
+    },
+    "poi_review_add_photos": {
+        "en": "Add photos",
+        "ar": "أضف صور"
+    },
+    "poi_review_post": {
+        "en": "Post review",
+        "ar": "أضف التقييم"
+    },
+    "poi_review_adjust": {
+        "en": "Update review",
+        "ar": "عدل التقييم"
+    },
+    "poi_review_post_success": {
+        "en": "Your review has been successfully submitted for revision!",
+        "ar": "تم إرسال تقييمك بنجاح للمراجعة!"
+    },
+    
+    
+    "poi_addImages_prompt": {
+        "en": "Help EGIPA become better by submitting up to 5 images for this place!",
+        "ar": "ساعد EGIPA لتصبح أفضل من خلال إضافة حتى ٥ صور لهذا المكان!"
+    },
+    "poi_addImages_post_success": {
+        "en": "Your images has been successfully submitted for revision!",
+        "ar": "تم إرسال صورك بنجاح للمراجعة!"
+    },
+    "poi_addImages_post": {
+        "en": "Post images",
+        "ar": "أضف الصور"
+    },
+    
+    "poi_error_call": {
+        "en": "Unable to call his phone number!",
+        "ar": "لا يمكن الإتصال بهذا الرقم!"
+    },
+    "poi_error_whatsapp": {
+        "en": "Unable to WhatsApp this phone number!",
+        "ar": "لا يمكن بدئ واتساب مع هذا الرقم!"
+    },
+    "poi_error_email": {
+        "en": "Unable to whatsapp this e-mail!",
+        "ar": "لا يمكن إرسال ايميل لهذا الرقم!"
+    },
+    "poi_error_uploading": {
+        "en": "Some images are still being uploaded!",
+        "ar": "مازال هناك بعض الصور قيد التحميل!"
+    },
+    "poi_error_no_images_selected": {
+        "en": "You must select at least on photo to submit!",
+        "ar": "يجب إختيار صورة واحدة على الأقل للإضافة!"
+    }
+}
+
+

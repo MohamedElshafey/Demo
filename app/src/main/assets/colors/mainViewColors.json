@@ -1,0 +1,17 @@
+
+{
+    
+    "mainview_bar": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    "mainview_bar_active": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "mainview_bar_inactive": {
+        "dark": "8E8E93",
+        "light": "6C6C6C"
+    }
+    
+}

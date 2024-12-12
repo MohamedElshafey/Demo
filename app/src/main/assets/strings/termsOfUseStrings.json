@@ -1,0 +1,36 @@
+
+{
+    "termsofuse_signin_message": {
+        "en": "By signing in, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بتسجيل الدخول، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_signup_message": {
+        "en": "By signing up, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بتسجيل حساب جديد، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_continueWithFacebook_message": {
+        "en": "By continuing with your Facebook account, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بالمتابعة بحساب Facebook الخاص بك، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_continueWithGoogle_message": {
+        "en": "By continuing with your Google account, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بالمتابعة بحساب Google الخاص بك، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_continueWithApple_message": {
+        "en": "By continuing with your Apple ID, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بالمتابعة بحساب Apple الخاص بك، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_imageUpload_message": {
+        "en": "By continuing with uploading images, you acknowledge that you've read and accpeted EGIPA's terms of use.",
+        "ar": "بالمتابعة بإستخدام خاصية رفع الصور، أنت تقر بأنك قرأت و وافقت على شروط الإستخدام الخاصة بEGIPA"
+    },
+    "termsofuse_show_button": {
+        "en": "Show terms of use",
+        "ar": "إظهر شروط الإستخدام"
+    },
+    "termsofuse_acceptAndContinue_button": {
+        "en": "Accept & Continue",
+        "ar": "موافقة و متابعة"
+    }
+}
+

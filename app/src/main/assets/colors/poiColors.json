@@ -1,0 +1,47 @@
+
+{
+    
+    "poi_text": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "poi_text_secondary": {
+        "dark": "F2F2F7",
+        "light": "48484A"
+    },
+    "poi_open": {
+        "dark": "0FA514",
+        "light": "0FA514"
+    },
+    "poi_closed": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    },
+    
+    "poi_review_cell": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    },
+    
+    "poi_separator": {
+        "dark": "707070",
+        "light": "AEAEB2"
+    },
+    "poi_star": {
+        "dark": "F5DF1C",
+        "light": "FDD13C"
+    },
+    "poi_star_dimmed": {
+        "dark": "B1B1B1",
+        "light": "AEAEB2"
+    },
+    "poi_review_backgorund": {
+        "dark": "353538",
+        "light": "F8F8F8"
+    },
+    "poi_review_outline": {
+        "dark": "48484A",
+        "light": "3A3A3C"
+    }
+    
+}

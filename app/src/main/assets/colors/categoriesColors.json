@@ -1,0 +1,48 @@
+
+{
+    "categories_button_foreground": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "categories_bar_color": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    },
+    "categories_bar_separator": {
+        "dark": "48484A",
+        "light": "AEAEB2"
+    },
+    "categories_bar_selector": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    },
+    "categories_cell_separator": {
+        "dark": "707070",
+        "light": "AEAEB2"
+    },
+    "categories_bottombar_color": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    
+    "categories_filters_title": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "categories_filters_option_title_selected": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    },
+    "categories_filters_option_title_nonselected": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "categories_filters_option_color_selected": {
+        "dark": "F2F2F7",
+        "light": "3A3A3C"
+    },
+    "categories_filters_option_color_nonselected": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    }
+}

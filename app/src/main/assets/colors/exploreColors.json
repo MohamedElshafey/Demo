@@ -1,0 +1,50 @@
+
+{
+    
+    "explore_search_color": {
+        "dark": "48484A",
+        "light": "F8F8F8"
+    },
+    "explore_search_border": {
+        "dark": "AEAEB2",
+        "light": "3A3A3C"
+    },
+    "explore_search_icon": {
+        "dark": "B1B1B1",
+        "light": "3A3A3C"
+    }, 
+    "explore_result_cell_color": {
+        "dark": "2C2C2E",
+        "light": "F0F0F0"
+    },
+    "explore_controls_color": {
+        "dark": "2C2C2E",
+        "light": "F8F8F8"
+    },
+    "explore_controls_icon": {
+        "dark": "FDFDFD",
+        "light": "3A3A3C"
+    },
+    "explore_controls_icon_active": {
+        "dark": "4F8EF2",
+        "light": "4F8EF2"
+    },
+    
+    "explore_mapselector_color": {
+        "dark": "48484A",
+        "light": "F8F8F8"
+    },
+    "explore_mapselector_text": {
+        "dark": "F8F8F8",
+        "light": "48484A"
+    },
+    "explore_mapselector_line": {
+        "dark": "3A3A3C",
+        "light": "3A3A3C"
+    },
+    "explore_mapselector_selected": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    }
+    
+}

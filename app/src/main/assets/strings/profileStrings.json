@@ -1,0 +1,131 @@
+
+{
+    "profile_title": {
+        "en": "Profile",
+        "ar": "حسابك"
+    },
+    "profile_edit": {
+        "en": "Edit",
+        "ar": "تعديل"
+    },
+    "profile_cancel": {
+        "en": "Cancel",
+        "ar": "إلغاء"
+    },
+    "profile_save": {
+        "en": "Save",
+        "ar": "حفظ"
+    },
+    "profile_signOut": {
+        "en": "Sign out",
+        "ar": "تسجيل خروج"
+    },
+    "profile_complete_info": {
+        "en": "Complete profile info",
+        "ar": "أكمل معلومات حسابك"
+    },
+    "profile_signOut_prompt": {
+        "en": "Are you sure you want to sign out of EGIPA?",
+        "ar": "تأكيد تسجيل الخروج من EGIPA؟"
+    },
+    "profile_signOut_confirm": {
+        "en": "Confrim",
+        "ar": "تأكيد"
+    },
+    "profile_signOut_cancel": {
+        "en": "Cancel",
+        "ar": "إلغاء"
+    },
+    "profile_field_name": {
+        "en": "Full name",
+        "ar": "الإسم الكامل"
+    },
+    "profile_field_email": {
+        "en": "Email",
+        "ar": "البريد الإلكتروني"
+    },
+    "profile_field_birthday": {
+        "en": "Birthday",
+        "ar": "تاريخ الميلاد"
+    },
+    "profile_field_gender": {
+        "en": "Gender",
+        "ar": "النوع"
+    },
+    "profile_field_update_error": {
+        "en": "An error occured while saving your changes. Please try again!",
+        "ar": "حدث خطأ أثناء حفظ التغييارت. من فضلك حاول مجدداً! "
+    },
+    
+    "profile_change_password": {
+        "en": "Change password",
+        "ar": "تغيير كلمة السر"
+    },
+    
+    "profile_avatar_select_camera": {
+        "en": "Use Camera",
+        "ar": "إستخدم الكاميرا"
+    },
+    "profile_avatar_select_photos": {
+        "en": "Pick from photos",
+        "ar": "إختيار من الصور"
+    },
+    "profile_avatar_delete": {
+        "en": "Remove profile picture",
+        "ar": "إزالة صورة الحساب"
+    },
+    
+    "profile_avatar_update_error": {
+        "en": "An error occurred while updating your avatar!",
+        "ar": "حدث خطأ أثناء تحديث صورة الحساب!"
+    },
+    "profile_avatar_delete_error": {
+        "en": "An error occurred while removing your avatar!",
+        "ar": "حدث خطأ أثناء إزالة صورة الحساب!"
+    },
+    
+    "profile_change_password_label": {
+        "en": "Change password",
+        "ar": "تغيير كلمة السر"
+    },
+    "profile_change_password_prompt": {
+        "en": "Please enter your current password followed by the new password!",
+        "ar": "من فضلك قم بإدخال كلمة السر الحالية متبوعة بكلمة السر الجديدة!"
+    },
+    
+    "profile_change_password_old_label": {
+        "en": "Current password",
+        "ar": "كلمة السر الحالية"
+    },
+    "profile_change_password_new_label": {
+        "en": "New password",
+        "ar": "كلمة السر الجديدة"
+    },
+    "profile_change_password_success": {
+        "en": "You have successfully changed your password, please use it to re-login to EGIPA!",
+        "ar": "تم تغيير كلمة السر بنجاح. من فضلك قوم بإستخدام كلمة السر الجديدة لإعادة تسجيل الدخول لEGIPA!"
+    },
+    
+    "profile_change_email": {
+        "en": "Change email",
+        "ar": "تغيير البريد الالكتروني"
+    },
+    "profile_change_email_label": {
+        "en": "Change email",
+        "ar": "تغيير البريد الالكتروني"
+    },
+    "profile_change_email_prompt": {
+        "en": "Please enter the new email followed by your password!",
+        "ar": "من فضلك قم بإدخال البريد الالكتروني الجديد متبوعاً بكلمة السر الخاصة بك!"
+    },
+    
+    "profile_change_email_new_label": {
+        "en": "New email",
+        "ar": "البريد الالكتروني الجديد"
+    },
+    "profile_change_email_success": {
+        "en": "You have successfully changed your email, please use it to re-login to EGIPA!",
+        "ar": "تم تغيير البريد الإلكتروني بنجاح. من فضلك قوم بإستخدام البريد الإلكتروني الجديد المرة لإعادة تسجيل الدخول لEGIPA!"
+    }
+    
+}

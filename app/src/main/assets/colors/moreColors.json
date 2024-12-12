@@ -1,0 +1,20 @@
+
+{
+    "more_foreground": {
+        "dark": "f2f2f7",
+        "light": "3A3A3C"
+    },
+    "more_item": {
+        "dark": "3A3A3C",
+        "light": "EFEFEF"
+    },
+    "more_item_light": {
+        "dark": "606060",
+        "light": "8a8a8f"
+    },
+    "more_alert": {
+        "dark": "CB0000",
+        "light": "CB0000"
+    }
+    
+}

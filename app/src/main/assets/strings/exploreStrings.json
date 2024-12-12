@@ -1,0 +1,32 @@
+
+{
+    "exploreview_search": {
+        "en": "Search here",
+        "ar": "ابحث هنا"
+    }, 
+    "exploreview_expand_details": {
+        "en": "Expand Details",
+        "ar": "إظهر البيانات"
+    },
+    "exploreview_map_title": {
+        "en": "Map type",
+        "ar": "نوع الخريطة"
+    },
+    "exploreview_map_standard": {
+        "en": "Standard",
+        "ar": "عادية"
+    },
+    "exploreview_map_satellite": {
+        "en": "Satellite",
+        "ar": "قمر صناعي"
+    },
+    "exploreview_map_hybrid": {
+        "en": "Hybrid",
+        "ar": "هجينة"
+    },
+    "exploreview_no_results_prompt": {
+        "en": "No results were found that match your search",
+        "ar": "لم يتم العثور على نتائج لبحثك"
+    }
+}
+
