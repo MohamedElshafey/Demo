@@ -31,7 +31,6 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
@@ -47,9 +46,8 @@ fun SettingsScreen(
     onBack: () -> Unit
 ) {
     val colors = LocalCustomColors.current
-    val context = LocalContext.current
     val selectedTheme by settingsViewModel.themeState.collectAsState()
-    val selectedLanguage by egipa.digitalegypt.com.egipa.data.language.LanguageManager.currentLanguage.collectAsState()
+    val currentLanguage by settingsViewModel.currentLanguage.collectAsState()
 
     var languageExpanded by rememberSaveable { mutableStateOf(false) }
     var themeExpanded by rememberSaveable { mutableStateOf(false) }
@@ -85,12 +83,9 @@ fun SettingsScreen(
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         RadioButton(
-                            selected = selectedLanguage == Language.ENGLISH,
+                            selected = currentLanguage == Language.ENGLISH,
                             onClick = {
-                                settingsViewModel.updateLanguage(
-                                    context,
-                                    Language.ENGLISH
-                                )
+                                settingsViewModel.updateLanguage(Language.ENGLISH)
                             }
                         )
                         Spacer(modifier = Modifier.width(8.dp))
@@ -101,12 +96,9 @@ fun SettingsScreen(
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         RadioButton(
-                            selected = selectedLanguage == Language.ARABIC,
+                            selected = currentLanguage == Language.ARABIC,
                             onClick = {
-                                settingsViewModel.updateLanguage(
-                                    context,
-                                    Language.ARABIC
-                                )
+                                settingsViewModel.updateLanguage(Language.ARABIC)
                             }
                         )
                         Spacer(modifier = Modifier.width(8.dp))

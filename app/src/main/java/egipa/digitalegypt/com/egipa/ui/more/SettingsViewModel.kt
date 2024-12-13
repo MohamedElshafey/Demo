@@ -1,8 +1,5 @@
 package egipa.digitalegypt.com.egipa.ui.more
 
-import android.content.Context
-import androidx.appcompat.app.AppCompatDelegate
-import androidx.core.os.LocaleListCompat
 import androidx.lifecycle.ViewModel
 import dagger.hilt.android.lifecycle.HiltViewModel
 import egipa.digitalegypt.com.egipa.data.language.Language
@@ -13,17 +10,18 @@ import javax.inject.Inject
 
 @HiltViewModel
 class SettingsViewModel @Inject constructor(
+    private val languageManager: LanguageManager,
     private val themeManager: ThemeManager,
 ) : ViewModel() {
 
     val themeState = themeManager.themePreference
+    val currentLanguage = languageManager.currentLanguage
 
     fun updateTheme(themeMode: ThemeMode) {
         themeManager.updateThemePreference(themeMode)
     }
 
-    fun updateLanguage(context: Context, language: Language) {
-        LanguageManager.saveLanguage(context, language)
-        AppCompatDelegate.setApplicationLocales(LocaleListCompat.forLanguageTags(language.locale))
+    fun updateLanguage(language: Language) {
+        languageManager.updateLanguage(language)
     }
 }
